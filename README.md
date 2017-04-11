@@ -1,6 +1,5 @@
 
 <h4>ListView + adapter 的基本用法。（适合于初学者）</h4>
-<div>
 <pre>
 知识点：
    1.ListView的用法
@@ -11,5 +10,4 @@
    3.ListView其它方法的用法
    4.菜单(menu)的简单使用
 </pre>
-</div>
 
