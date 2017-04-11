@@ -1,6 +1,5 @@
-
-<pre>
 <h4>ListView + adapter 的基本用法。（适合于初学者）</h4>
+<pre>
 知识点：
    1.ListView的用法
    2.Adapter的用法
